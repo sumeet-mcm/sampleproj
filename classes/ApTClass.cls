@@ -1,7 +1,7 @@
 public class ApTClass {
 
     public ApTClass(ApexPages.StandardController controller) {
-System.debug('FUNNY12');
+System.debug('FUNNY12QQ');
     }
 
 public ApTClass(){
